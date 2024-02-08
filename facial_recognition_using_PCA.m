@@ -44,8 +44,3 @@ projectimg=[];
    [euclide_dist_min recognized_index] = min(euclide_dist);
     recognized_img = strcat('\',int2str(recognized_index),'.pgm');  
 end
-
-        
-        
-        
-    
